@@ -1,0 +1,47 @@
+index.html
+style.css
+<img src="images/school1.jpg">
+<img src="images/school2.jpg">
+<img src="images/school3.jpg">
+<img src="images/school4.jpg">
+<img src="images/school5.jpg">
+<img src="images/school6.jpg">
+<img src="images/school7.jpg">
+<img src="images/school8.jpg">
+<img src="images/school9.jpg">
+<img src="images/school10.jpg">
+<img src="images/school11.jpg">
+<img src="images/school12.jpg">
+<img src="images/school13.jpg">
+<img src="images/school14.jpg">
+<img src="images/school15.jpg">
+<img src="images/school16.jpg">
+<img src="images/school17.jpg">
+<img src="images/school18.jpg">
+<img src="images/school19.jpg">
+<img src="images/school20.jpg">
+<img src="images/school21.jpg">
+<img src="images/school22.jpg">
+<img src="images/school23.jpg">
+<img src="images/school24.jpg">
+<img src="images/school25.jpg">
+<img src="images/school26.jpg">
+<img src="images/school27.jpg">
+<img src="images/school28.jpg">
+<img src="images/school29.jpg">
+<img src="images/school30.jpg">
+<img src="images/school31.jpg">
+<img src="images/school32.jpg">
+<img src="images/school33.jpg">
+<img src="images/school34.jpg">
+<img src="images/school35.jpg">
+<img src="images/school36.jpg">
+<img src="images/school37.jpg">
+<img src="images/school38.jpg">
+<img src="images/school39.jpg">
+<img src="images/school40.jpg">
+<img src="images/school41.jpg">
+<img src="images/school42.jpg">
+<img src="images/school43.jpg">
+<img src="images/school44.jpg">
+ 
